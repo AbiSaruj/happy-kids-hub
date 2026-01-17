@@ -24,7 +24,7 @@ const Footer = () => {
           </motion.span>
         </motion.p>
         <p className="text-muted-foreground mt-2">
-          © 2024 Happy Kids World
+          © 2026 Happy Kids World
         </p>
       </div>
     </motion.footer>
